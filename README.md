@@ -1,4 +1,4 @@
-````markdown
+
 # Hey, I'm Divyanshu 👋
 
 Backend & Full-Stack Engineer from India.  
